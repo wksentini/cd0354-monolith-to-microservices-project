@@ -40,3 +40,6 @@ venv/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+cred.txt
+set_env.sh
+*package-lock.json
