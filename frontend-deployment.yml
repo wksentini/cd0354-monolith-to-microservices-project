@@ -34,7 +34,7 @@ spec:
 
       - name: frontend
 
-        image: ghost0docker/udagram-frontend:v1
+        image: ghost0docker/udagram-frontend:v2
 
         ports:
 
